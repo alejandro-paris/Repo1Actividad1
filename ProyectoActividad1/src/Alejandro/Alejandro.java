@@ -1,4 +1,4 @@
-package Alejandro;
+package alejandro;
 
 public class Alejandro {
 
