@@ -10,6 +10,10 @@ public class Maria {
 		System.out.println("NATACION");
 		System.out.println("JUEGOS DE MESA");
 		
+		System.out.println("MACARRONES");
+		System.out.println("ENSALADA");
+		System.out.println("MACEDONIA");
+		
 		
 	}
 
