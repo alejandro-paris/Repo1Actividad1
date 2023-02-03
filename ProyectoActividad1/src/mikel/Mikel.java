@@ -7,6 +7,7 @@ public class Mikel {
 System.out.println("Buenas Tardes, Mi nombre es Mikel");
 
 System.out.println("Me gusta ir al cine, hacer deporte y la lectura ");
+System.out.println("Mis tres comidas favoritas son : Pasta,Pizza y Albondigas en salsa");
 	}
 
 }
