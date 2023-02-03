@@ -11,7 +11,9 @@ public class Maria {
 		System.out.println("JUEGOS DE MESA");
 		System.out.println("Ensalada, paella, ensaladilla rusa");
 		System.out.println("MACARRONES, ENSALADA, MACEDONIA");
-
+		System.out.println("TRES NUEVAS: POLLO ASADO, PESCADO, COLIFLOR");
+		
+		
 		
 		
 	}
