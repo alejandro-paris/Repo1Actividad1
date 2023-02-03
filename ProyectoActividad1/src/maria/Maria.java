@@ -9,13 +9,9 @@ public class Maria {
 		System.out.println("SENDERISMO");
 		System.out.println("NATACION");
 		System.out.println("JUEGOS DE MESA");
-		System.out.println("Ensalada");
-		System.out.println("Paella");
-		System.out.println("Ensaladilla rusa");
-		
-		System.out.println("MACARRONES");
-		System.out.println("ENSALADA");
-		System.out.println("MACEDONIA");
+		System.out.println("Ensalada, paella, ensaladilla rusa");
+		System.out.println("MACARRONES, ENSALADA, MACEDONIA");
+
 		
 		
 	}
