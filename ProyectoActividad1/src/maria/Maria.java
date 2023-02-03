@@ -13,6 +13,10 @@ public class Maria {
 		System.out.println("Paella");
 		System.out.println("Ensaladilla rusa");
 		
+		System.out.println("MACARRONES");
+		System.out.println("ENSALADA");
+		System.out.println("MACEDONIA");
+		
 		
 	}
 
